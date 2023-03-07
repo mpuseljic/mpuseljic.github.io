@@ -113,7 +113,7 @@ span{
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: url("img/bg.jpg") no-repeat center;
+	background: url("images/kontakt.png") no-repeat center;
 	background-size: cover;
 	filter: blur(50px);
 	z-index: -1;
@@ -130,7 +130,7 @@ span{
 }
 
 .left{
-	background: url("img/bg.jpg") no-repeat center;
+	background: url("images/kontakt.png") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
@@ -154,7 +154,7 @@ h2:after{
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: #2ecc71;
+    background-color: bisque;
 }
 
 .field{
@@ -179,7 +179,7 @@ textarea{
 .btn{
 	width: 100%;
 	padding: 0.5rem 1rem;
-	background-color: #2ecc71;
+	background-color:bisque;
 	color: #fff;
 	font-size: 1.1rem;
 	border: none;
