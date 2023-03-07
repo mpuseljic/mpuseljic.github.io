@@ -72,10 +72,10 @@ span{
 }
 
 .images{
-    width: 20px;
-    height: 80px;
+    width: 100px;
+    height: 300px;
     position: absolute;
-    bottom: 0;
+    top: 200px;
     right: 100px;
 }
 
